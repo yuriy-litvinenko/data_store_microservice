@@ -40,6 +40,7 @@ public class Summary {
 
         private SummaryType type;
         private double value;
+        private long counter;
 
     }
 
